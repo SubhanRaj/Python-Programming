@@ -11,3 +11,6 @@ print (name.lower())
 
 # Find
 print (name.find('S'))
+
+# Replace
+print (name.replace('S', 's'))

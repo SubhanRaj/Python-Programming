@@ -106,7 +106,7 @@ print('Insert another string with curly brackets: {}'.format('The inserted strin
 ```
     Insert another string with curly brackets: The inserted string
 
-### Location and Counting
+### Finding
 
 We can use `find()` method to find the first occurrence of a substring. For example:
 
@@ -116,6 +116,16 @@ print(s.count('o'))
 ```
     2
 
+### Replacing
+
+We can use `replace()` method to replace a substring with another string. For example:
+
+```python
+# Replacing
+print(s.replace('World','Universe'))
+```
+    Hello Universe
+    
     
 
 
