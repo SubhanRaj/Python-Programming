@@ -1,4 +1,13 @@
 # String in Python
 
 name = "Subhan"
-name.
+print (name)
+
+# Converting to Upper Case
+print (name.upper())
+
+# Converting to Lower Case
+print (name.lower())
+
+# Find
+print (name.find('S'))
