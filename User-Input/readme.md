@@ -21,3 +21,17 @@ age = int(input("Enter your age: "))
 print("Hello " + name + "!")
 print("You are " + str(age) + " years old.")
 ```
+
+## Concatination
+
+In Python, we can use the `+` operator to concatenate two strings. The `+` operator concatenates the second string to the first string.
+
+```python
+# Concatenation of two strings
+str1 = "Hello"
+str2 = "World"
+str3 = str1 + str2
+print(str3)
+```
+
+    HelloWorld
