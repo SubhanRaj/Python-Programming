@@ -78,6 +78,7 @@ dict = {'name': 'Python', 'age': 30}
 In python Boolean represents a collection of items. Boolean values are either true or false.
 * **Syntax of Boolean** : bool = True or False
 * Boolean values are either true or false.
+* Boolean Variables uses True or False keywords, both are case sensitive.
 ```python
 bool = True
 ```
