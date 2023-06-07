@@ -23,10 +23,10 @@
 | `int()` | This function is used to convert a variable into an integer. |
 | `float()` | This function is used to convert a variable into a float. |
 | `str()` | This function is used to convert a variable into a string. |
-| `()` | This function is used to find the length of a string. |
+| `len()` | This function is used to find the length of a string. |
 | `range()` | This function is used to generate a sequence of numbers. |
 | `list()` | This function is used to convert a sequence into a list. |
-| `t`uple()` | This function is used to convert a sequence into a tuple. |
+| `tuple()` | This function is used to convert a sequence into a tuple. |
 | `dict()` | This function is used to convert a sequence of tuples into a dictionary. |
 | `set()` | This function is used to convert a sequence into a set. |
 | `abs()` | This function is used to find the absolute value of a number. |
