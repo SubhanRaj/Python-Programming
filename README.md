@@ -221,7 +221,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@SubhanRaj2002](https://twitter.com/SubhanRaj2002) - shubhanraj2002@gmail.com
+Drop an Email - [@SubhanRaj2002](https://twitter.com/SubhanRaj2002) - shubhanraj2002@gmail.com
 
 Project Link: [https://github.com/SubhanRaj/Python-Programming](https://github.com/SubhanRaj/Python-Programming)
 
